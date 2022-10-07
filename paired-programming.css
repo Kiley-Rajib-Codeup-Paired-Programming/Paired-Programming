@@ -1,0 +1,29 @@
+@media only screen and(min-width: 576px) {
+    /* smartphones, Android phones, landscape iPhone */
+
+}
+
+@media only screen and(min-width: 768px) {
+    /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
+
+}
+
+@media only screen and(min-width: 992px) {
+    /* tablet, landscape iPad, lo-res laptops ands desktops */
+
+}
+
+@media only screen and(min-width: 1200px) {
+    /* big landscape tablets, laptops, and desktops */
+
+}
+#logo {
+    height: 105px;
+    width: 105px;
+}
+.navbar {
+
+}
+
+
+
