@@ -18,11 +18,26 @@
         height: 105px;
         width: 105px;
     }
+    div.container-fluid {
+    height: 80px;}
+}
 
     nav.navbar {
+        display: flex;
+        position: relative;
+        top: 0;
 
     }
-}
+
+    .header{
+        font-family: 'Anton', sans-serif;
+        position: relative;
+        /*background-color: mediumvioletred;*/
+        display: flex;
+        justify-content: center;
+
+
+    }
 
 
 
