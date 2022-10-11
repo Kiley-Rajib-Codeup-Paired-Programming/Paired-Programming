@@ -1,5 +1,6 @@
 @media only screen and(min-width: 576px) {
     /* smartphones, Android phones, landscape iPhone */
+}
     @media only screen and(min-width: 768px) {
         /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
 
@@ -20,10 +21,21 @@
     }
 
     nav.navbar {
+        display: flex;
+        position: relative;
+        top: 0;
 
     }
-}
 
+    .header{
+        font-family: 'Anton', sans-serif;
+        position: relative;
+        /*background-color: mediumvioletred;*/
+        display: flex;
+        justify-content: center;
+
+
+    }
 
 
 
