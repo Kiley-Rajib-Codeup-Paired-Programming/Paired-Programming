@@ -25,13 +25,10 @@ body {
     }
     div.container-fluid {
     height: 80px;}
-}
 
     nav.navbar {
         display: flex;
         position: relative;
-
-
     }
 
     .header{
@@ -40,6 +37,11 @@ body {
         /*background-color: mediumvioletred;*/
         display: flex;
         justify-content: center;
+    }
+    h2 {
+        display: flex;
+        justify-content: center;
+
     }
 
 
